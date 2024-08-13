@@ -1,0 +1,257 @@
+.container {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar {
+    width: 100%;
+    height: 40px;
+    background-color: rgb(18, 10, 169);
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.navsub {
+    width: 400px;
+    height: 30px;
+    padding-right: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+}
+.admissionbtn{
+    color: white;
+    text-align: center;
+    background-color: #013e7f;
+    width: fit-content;
+    padding: 10px;
+    border-radius: 7px;
+}
+.addmission{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.navlinks {
+    color: white;
+    width: 100px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: serif;
+}
+
+.college_img {
+    display: flex;
+    width: 30%;
+    align-items: center;
+    justify-content: center;
+}
+
+.menubar {
+    display: flex;
+    width: 40px;
+    margin-left: auto;
+}
+
+.img_container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.img_container2 {
+    background-image: url("D:/PROGRESSIVE/HTML Practice/PROJECT/Flex and Grid/images/nirmala-banner-3.jpg");
+    width: 100%;
+    height: 400px;
+    background-size: contain;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.text_inside_banner {
+    color: white;
+    font-size: 45px;
+    font-family: sans-serif;
+    font-weight: 800;
+}
+
+.ERP_Border {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #013e7f;
+    padding: 4px;
+}
+
+.text_inside_erp_border {
+    color: white;
+    font-size: 25px;
+    font-weight: 800;
+    font-family: sans-serif;
+}
+
+.image_3 {
+    width: 50%;
+}
+
+.image_container3 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 4px;
+
+}
+
+.heading3 {
+    color: white;
+    font-size: 45px;
+    font-weight: 800px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.borderz {
+    background-color: #013e7f;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 694px;
+    height: 227px;
+    padding: 20px;
+    margin-left: 424px;
+    position: absolute;
+    border-radius: 7px;
+}
+
+
+.heading_4 {
+    color: white;
+}
+
+.Explore {
+    color: white #fff;
+    padding: 14px;
+    height: 27px;
+    line-height: 50px;
+    display: flex;
+    align-items: center;
+    width: fit-content;
+}
+
+.acc {
+    display: flex;
+    align-items: flex-start;
+    color: black;
+    padding: 10px;
+    font-size: 22px;
+    font-weight: 800px;
+}
+
+.acc2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: black;
+    padding: 10px;
+    font-size: 22px;
+    font-weight: 800px;
+}
+
+.acc {
+    justify-content: space-between;
+}
+
+.choose {
+    text-align: left;
+    color: #fff;
+    font-size: 40px;
+    width: 300px;
+    font-family: math;
+}
+
+/* .facilities_item{
+    background-image:url("D:/PROGRESSIVE/HTML Practice/PROJECT/Flex and Grid/images/WhatsApp-Image-2024-03-15-at-10.40.48-AM-scaled.jpeg") ;
+    height: 240px;
+    object-fit: cover;
+    object-position: center;
+} */
+
+.image_container8 {
+display: inline-grid;
+}
+
+.image_container9 {
+    flex-direction: row;
+    display: flex;
+    height: 550px;
+}
+
+.choose2 {
+    color: #fff;
+    font-size: 16px;
+    font-family: fantasy;
+}
+
+.btnview {
+    color: #fff;
+    display: inline block;
+    padding: 30px;
+    line-height: 50px;
+    display: flex;
+    align-items: center;
+    width: fit-content;
+    font-size: 28px;
+}
+
+.main {
+    display: flex;
+    padding: 5px;
+    background-image: url("D:/PROGRESSIVE/HTML Practice/PROJECT/Flex and Grid/images/c9327729dcba78fadd30fb0fa31e2723.jpg");
+    width: 100%;
+
+
+}
+
+.card1 {
+    color: black;
+    justify-content: center;
+    padding: 25px;
+    font-size: 16px;
+
+}
+.card2{
+    color: black;
+    padding: 10px;
+    font-weight: 800;
+}
+.card_container1{
+    border: 5px solid brown;
+    padding: 26px;
+    margin: 24px;
+    font-weight: 800;
+    width: 289px;
+    background-color: white;
+}
+.card_container2{
+    border: 5px solid brown;
+    padding: 26px;
+    margin: 24px;
+    font-weight: 800;
+    width: 289px;
+    background-color: white;
+}
+    
+
+.img1
+{
+    border-radius: 7px;
+    margin: -5px;
+}
